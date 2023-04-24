@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    background-color: #D3D3D3;
+}
+
+h1{
+    letter-spacing: 10px;
+    margin-top: 150px;
+}
+
+h2{
+    letter-spacing: 5px;
+}
+
+input{
+    margin-bottom: 25px;
+}
+
+
+span{
+    font-weight: bold;
+}
+
+button{
+    margin-bottom: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+}
